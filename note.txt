@@ -1,0 +1,9 @@
+setup.txt
+
+- install phpmyadmin, add sdemo.sql
+- sudo chmod -R 777 sdemo[project]
+- bug chmod runtime, assets, modrewrite (chú ý sudo nano /etc/apache2/sites-enabled/000-default.conf )
+(https://www.digitalocean.com/community/tutorials/how-to-set-up-mod_rewrite-for-apache-on-ubuntu-14-04)
+(https://askubuntu.com/questions/861405/install-ubuntu-package-php7-0-sqlite3-missing)
+
+http://www.yiiframework.com/doc/api/1.1/CActiveForm
